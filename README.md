@@ -1,4 +1,4 @@
-# iBook Audio Sample Pad Widget
+# iBook Audio Sampler
 
 A HTML5 widget for iBooks that provides an interactive audio sample pad. The implementation uses
 [https://developer.mozilla.org/en-US/docs/Web/API/AudioBuffer](Audio Buffers) to ensure low

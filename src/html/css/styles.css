@@ -1,0 +1,36 @@
+html, body {
+    width: 400px;
+    height: 200px;
+}
+
+.pad {
+    width: 200px;
+    height: 100px;
+    background-color: lime;
+    position: absolute;
+}
+
+.pad-0 {
+    background-color: #aaaa39;
+    top: 0;
+    left: 0;
+}
+
+.pad-1 {
+    background-color: #6e9b34;
+    top: 0;
+    left: 200px;
+}
+
+.pad-2 {
+    background-color: #913059;
+    top: 100px;
+    left: 0;
+}
+
+.pad-3 {
+    background-color: #582a72;
+    top: 100px;
+    left: 200px;
+}: 
+

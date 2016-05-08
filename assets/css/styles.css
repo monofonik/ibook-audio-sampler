@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+}
+
+.pad {
+    margin-top: 40px;
+    width: 200px;
+    height: 80px;
+    background-color: lime;
+}
+
+.pad1 {
+    background-color: #aaaa39;
+}
+
+.pad2 {
+    background-color: #6e9b34;
+}
+
+.pad3 {
+    background-color: #913059;
+}
+
+.pad4 {
+    background-color: #582a72;
+}: 
+

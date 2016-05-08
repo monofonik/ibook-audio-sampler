@@ -3,10 +3,11 @@ body {
 }
 
 .pad {
-    margin-top: 40px;
+    /*margin-top: 40px;*/
     width: 200px;
-    height: 80px;
+    height: 100px;
     background-color: lime;
+    float: left;
 }
 
 .pad1 {
